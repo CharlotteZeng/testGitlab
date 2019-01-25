@@ -19,3 +19,5 @@
                             
                             	  #将暂存区的文件拉到工作区内 使工作区未提交的更改丢失
                             	  git checkout -- <file>
+                            	  
+      branch1
