@@ -6,6 +6,8 @@
 	  
 	  git reflog
 	  git log
+	  #回滚上次add
+	  git reset
 	  #回滚到上一个版本
 	  git reset --hard HEAD^
 	  #回滚到上两个版本
